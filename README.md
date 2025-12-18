@@ -1,6 +1,6 @@
 # Hi, I'm Sara Tahoor 👋
 🎓 Final-year BE Student (Computer Science - Data Science)  
-💡 Passionate about **Data Science, Generative AI, and Full-Stack Development**  
+💡 Passionate about **Data Science, Generative AI, and Data analysis**  
 🧠 Always exploring **Machine Learning, NLP and LLMs**  
 
 ## 🛠️ Tech Stack
